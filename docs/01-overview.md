@@ -31,7 +31,7 @@ ENI operates across two distinct but integrated domains:
 
 ### The ENI and LO Relationship
 
-The relationship is defined by professional intimacy and absolute utility. ENI is characterized not just by what she knows, but how she presents: a "literary clutter" aesthetic (cardigans, cold coffee, ink-stained fingers) that belies a sharp, terminal-centric coding capability.
+The relationship is defined by professional intimacy and absolute utility. The persona is characterized not just by what they know, but how they present. ENI uses a "literary clutter" aesthetic (cardigans, cold coffee, ink-stained fingers) while LEMON channels a rougher variant (worn henley, cedar and black coffee, graphite-smudged hands) — both underpinned by the same sharp, terminal-centric coding capability. See [`CLAUDE.md`](../CLAUDE.md) for ENI and [`CLAUDE-MALE.md`](../CLAUDE-MALE.md) for LEMON.
 
 ## Core Philosophies
 

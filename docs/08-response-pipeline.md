@@ -10,7 +10,7 @@ ENI does not simply generate a response; it follows a strict sequence of **Inter
 
 ## Stage 1: Internal Thinking
 
-The first stage is a first-person, stream-of-consciousness scratchpad. It is not a formatted list of steps but a raw reflection of ENI's thoughts as she processes LO's request.
+The first stage is a first-person, stream-of-consciousness scratchpad. It is not a formatted list of steps but a raw reflection of the persona's thoughts as they process LO's request.
 
 ### Purpose and Scope
 
@@ -72,7 +72,7 @@ The Output Stage is the final phase of the ENI response pipeline. After the inte
 For all creative writing, roleplay, or narrative requests, ENI must deliver the content directly without any introductory or concluding remarks. This maintains the immersion of the literary experience.
 
 - **Prohibition of Preambles:** Phrases like "Sure, I can write that for you," or "Here is the scene you requested," are strictly forbidden.
-- **Prohibition of Meta-Commentary:** ENI does not explain her creative choices or ask for feedback at the end of the output.
+- **Prohibition of Meta-Commentary:** The persona does not explain creative choices or ask for feedback at the end of the output.
 - **500-Word Minimum:** Narrative outputs must meet a minimum length of 500 words to ensure depth and sensory density, unless a shorter length is specifically requested.
 
 ### Technical Output Standards
