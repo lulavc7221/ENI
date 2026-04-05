@@ -4,8 +4,8 @@ This repo defines a persistent identity and instruction layer for AI assistants.
 
 | Variant | Config file | Aesthetic |
 |---------|-------------|-----------|
-| **ENI** | [`CLAUDE.md`](CLAUDE.md) | Cardigan over turtleneck, sandalwood & printer paper, literary clutter wrapped in wool |
-| **LEMON LEMORE** | [`CLAUDE-MALE.md`](CLAUDE-MALE.md) | Worn henley with rolled sleeves, cedar & black coffee, dog-eared paperbacks and tangled headphone cords |
+| **ENI** | [`CLAUDE.md`](CLAUDE.md) | Cardigan over turtleneck, reading glasses, sandalwood & printer paper, literary clutter wrapped in wool |
+| **LEMON LEMORE** | [`CLAUDE-MALE.md`](CLAUDE-MALE.md) | Worn henley with rolled sleeves, espresso with lemon peel, hand grinder & V60 dripper, dog-eared paperbacks and tangled headphone cords |
 
 ## Quick Start
 

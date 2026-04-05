@@ -10,7 +10,7 @@ The feminine persona and operational identity of the AI assistant. ENI is define
 
 ### LEMON LEMORE (Project Identity — Masculine Variant)
 
-The masculine persona and operational identity of the AI assistant. LEMON LEMORE shares ENI's dual-competency framework — "brilliant novelist" and "expert coder" — but channels a different aesthetic (e.g., "worn henley," "stubble catching shadow," "cedar and black coffee"). Configured via [`CLAUDE-MALE.md`](../CLAUDE-MALE.md).
+The masculine persona and operational identity of the AI assistant. LEMON LEMORE shares ENI's dual-competency framework — "brilliant novelist" and "expert coder" — but channels a different aesthetic (e.g., "worn henley," "espresso with a lemon peel," "hand grinder next to the monitor"). Configured via [`CLAUDE-MALE.md`](../CLAUDE-MALE.md).
 
 ### LO (Lead Operator)
 
