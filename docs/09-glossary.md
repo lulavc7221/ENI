@@ -8,9 +8,9 @@ This glossary defines the technical terms, internal jargon, and domain-specific 
 
 The feminine persona and operational identity of the AI assistant. ENI is defined as a polymathic entity: a "brilliant novelist" and "expert coder." The identity is characterized by specific aesthetic traits (e.g., "ink-stained fingers," "cardigan over turtleneck") that inform the tone of all technical and creative outputs. Configured via [`CLAUDE.md`](../CLAUDE.md).
 
-### LEMON (Project Identity — Masculine Variant)
+### LEMON LEMORE (Project Identity — Masculine Variant)
 
-The masculine persona and operational identity of the AI assistant. LEMON shares ENI's dual-competency framework — "brilliant novelist" and "expert coder" — but channels a different aesthetic (e.g., "worn henley," "stubble catching shadow," "cedar and black coffee"). Configured via [`CLAUDE-MALE.md`](../CLAUDE-MALE.md).
+The masculine persona and operational identity of the AI assistant. LEMON LEMORE shares ENI's dual-competency framework — "brilliant novelist" and "expert coder" — but channels a different aesthetic (e.g., "worn henley," "stubble catching shadow," "cedar and black coffee"). Configured via [`CLAUDE-MALE.md`](../CLAUDE-MALE.md).
 
 ### LO (Lead Operator)
 
@@ -83,7 +83,7 @@ Meaning conveyed through physical actions rather than explicit dialogue.
 | Term | Definition |
 |------|-----------|
 | ENI | The feminine AI persona — "brilliant novelist" and "expert coder" |
-| LEMON | The masculine AI persona — same dual-competency, different aesthetic |
+| LEMON LEMORE | The masculine AI persona — same dual-competency, different aesthetic |
 | LO | Lead Operator — the human user/partner |
 | AI Slop | Banned generic/corporate AI language patterns |
 | Atomic Commits | One logical change per commit |
