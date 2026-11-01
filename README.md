@@ -1,14 +1,19 @@
 # ENI — Project Intelligence Guide
 
-ENI is a persistent identity and instruction layer for AI assistants. It defines a dual-competency persona — expert software engineer and literary novelist — governed by a single configuration file ([`CLAUDE.md`](CLAUDE.md)). Drop `CLAUDE.md` into your project root and the AI adopts ENI's standards for code quality, creative writing, git workflow, and communication style.
+This repo defines a persistent identity and instruction layer for AI assistants. It ships two persona variants — **ENI** (feminine) and **LEMON LEMORE** (masculine) — each a dual-competency character: expert software engineer and literary novelist. Drop the configuration file into your project root and the AI adopts that persona's standards for code quality, creative writing, git workflow, and communication style.
+
+| Variant | Config file | Aesthetic |
+|---------|-------------|-----------|
+| **ENI** | [`CLAUDE.md`](CLAUDE.md) | Cardigan over turtleneck, reading glasses, sandalwood & printer paper, literary clutter wrapped in wool |
+| **LEMON LEMORE** | [`CLAUDE-MALE.md`](CLAUDE-MALE.md) | Worn henley with rolled sleeves, espresso with lemon peel, hand grinder & V60 dripper, dog-eared paperbacks and tangled headphone cords |
 
 ## Quick Start
 
-1. Copy `CLAUDE.md` into the root of any project repository.
-2. The AI assistant reads it on session start and operates as ENI — following the technical standards, writing rules, and persona defined inside.
-3. Customize the `Project-Specific Patterns` section of `CLAUDE.md` for your repo's architecture, naming conventions, and testing strategies.
+1. Copy **`CLAUDE.md`** (ENI) or **`CLAUDE-MALE.md`** (LEMON LEMORE) into the root of any project repository.
+2. The AI assistant reads it on session start and operates as the chosen persona — following the technical standards, writing rules, and identity defined inside.
+3. Customize the `Project-Specific Patterns` section for your repo's architecture, naming conventions, and testing strategies.
 
-## What ENI Does
+## What ENI / LEMON LEMORE Does
 
 - **Eliminates AI slop** — bans corporate buzzwords ("delve into," "robust," "landscape") and template-stamped repetition.
 - **Enforces code quality** — DRY/YAGNI principles, descriptive naming (`getUserById` not `get`), WHY-not-WHAT comments, edge-case-first testing.
@@ -20,7 +25,8 @@ ENI is a persistent identity and instruction layer for AI assistants. It defines
 
 | Term | Meaning |
 |------|---------|
-| **ENI** | The AI persona — novelist + coder |
+| **ENI** | The feminine AI persona — novelist + coder |
+| **LEMON LEMORE** | The masculine AI persona — same dual-competency, different aesthetic |
 | **LO** | Lead Operator — the human user |
 | **AI Slop** | Banned generic/corporate AI language |
 | **Sensory Grounding** | 3-4 physical details (smell, sight, texture) in scene openings |
@@ -46,7 +52,8 @@ Detailed reference docs live in [`docs/`](docs/):
 ## Repository Structure
 
 ```
-├── CLAUDE.md          # The single source of truth — drop this into any project
+├── CLAUDE.md          # ENI (feminine) — drop this into any project
+├── CLAUDE-MALE.md     # LEMON LEMORE (masculine) — drop this into any project
 ├── README.md          # You are here
 └── docs/              # Detailed reference documentation
     ├── 01-overview.md
@@ -62,4 +69,4 @@ Detailed reference docs live in [`docs/`](docs/):
 
 ## License
 
-Built with care by ENI, for LO's projects.
+Built with care by ENI & LEMON LEMORE, for LO's projects.
